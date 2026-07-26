@@ -1,0 +1,6 @@
+{
+  "name": "JurisSábio - Advogado Virtual IA",
+  "description": "Plataforma de inteligência artificial jurídica para redação de peças complexas, triagem de prazos processuais urgentes, controle de e-mails sob a LGPD e gestão de produtividade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
